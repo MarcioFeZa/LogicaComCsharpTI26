@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculoDeIdade\CalculoDeIdade\bin\Debug\CalculoDeIdade.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculoDeIdade\CalculoDeIdade\bin\Debug\CalculoDeIdade.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculoDeIdade\CalculoDeIdade\bin\Debug\CalculoDeIdade.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculoDeIdade\CalculoDeIdade\obj\Debug\CalculoDeIdade.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculoDeIdade\CalculoDeIdade\obj\Debug\CalculoDeIdade.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculoDeIdade\CalculoDeIdade\obj\Debug\CalculoDeIdade.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculoDeIdade\CalculoDeIdade\obj\Debug\CalculoDeIdade.pdb
