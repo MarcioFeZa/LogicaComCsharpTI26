@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParAte100\NumeroParAte100\bin\Debug\NumeroParAte100.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParAte100\NumeroParAte100\bin\Debug\NumeroParAte100.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParAte100\NumeroParAte100\bin\Debug\NumeroParAte100.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParAte100\NumeroParAte100\obj\Debug\NumeroParAte100.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParAte100\NumeroParAte100\obj\Debug\NumeroParAte100.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParAte100\NumeroParAte100\obj\Debug\NumeroParAte100.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParAte100\NumeroParAte100\obj\Debug\NumeroParAte100.pdb

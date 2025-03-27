@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParEnquanto\NumeroParEnquanto\bin\Debug\NumeroParEnquanto.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParEnquanto\NumeroParEnquanto\bin\Debug\NumeroParEnquanto.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParEnquanto\NumeroParEnquanto\bin\Debug\NumeroParEnquanto.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParEnquanto\NumeroParEnquanto\obj\Debug\NumeroParEnquanto.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParEnquanto\NumeroParEnquanto\obj\Debug\NumeroParEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParEnquanto\NumeroParEnquanto\obj\Debug\NumeroParEnquanto.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroParEnquanto\NumeroParEnquanto\obj\Debug\NumeroParEnquanto.pdb
