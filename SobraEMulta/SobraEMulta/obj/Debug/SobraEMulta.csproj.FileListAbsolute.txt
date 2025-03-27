@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SobraEMulta\SobraEMulta\bin\Debug\SobraEMulta.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SobraEMulta\SobraEMulta\bin\Debug\SobraEMulta.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SobraEMulta\SobraEMulta\bin\Debug\SobraEMulta.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SobraEMulta\SobraEMulta\obj\Debug\SobraEMulta.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SobraEMulta\SobraEMulta\obj\Debug\SobraEMulta.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SobraEMulta\SobraEMulta\obj\Debug\SobraEMulta.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SobraEMulta\SobraEMulta\obj\Debug\SobraEMulta.pdb
