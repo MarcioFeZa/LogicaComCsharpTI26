@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SomaDoisNumeros\SomaDoisNumeros\bin\Debug\SomaDoisNumeros.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SomaDoisNumeros\SomaDoisNumeros\bin\Debug\SomaDoisNumeros.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SomaDoisNumeros\SomaDoisNumeros\bin\Debug\SomaDoisNumeros.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\SomaDoisNumeros\SomaDoisNumeros\obj\Debug\SomaDoisNumeros.pdb

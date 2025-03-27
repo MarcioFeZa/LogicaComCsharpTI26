@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\SomaDoisNumeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A78DFF64-AB25-45B8-9799-E219329369A8}|SomaDoisNumeros\\SomaDoisNumeros.csproj|c:\\users\\marcio.fzanni\\source\\repos\\logicacomcsharpti26\\logicacomcsharpti26\\somadoisnumeros\\somadoisnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78DFF64-AB25-45B8-9799-E219329369A8}|SomaDoisNumeros\\SomaDoisNumeros.csproj|solutionrelative:somadoisnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\SomaDoisNumeros\\SomaDoisNumeros\\Program.cs",
+              "RelativeDocumentMoniker": "SomaDoisNumeros\\Program.cs",
+              "ToolTip": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\SomaDoisNumeros\\SomaDoisNumeros\\Program.cs*",
+              "RelativeToolTip": "SomaDoisNumeros\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:34:40.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

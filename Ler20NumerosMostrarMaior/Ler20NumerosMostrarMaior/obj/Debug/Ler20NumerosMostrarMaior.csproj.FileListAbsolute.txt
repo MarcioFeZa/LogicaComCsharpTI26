@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Ler20NumerosMostrarMaior\Ler20NumerosMostrarMaior\obj\Debug\Ler20NumerosMostrarMaior.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Ler20NumerosMostrarMaior\Ler20NumerosMostrarMaior\obj\Debug\Ler20NumerosMostrarMaior.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Ler20NumerosMostrarMaior\Ler20NumerosMostrarMaior\bin\Debug\Ler20NumerosMostrarMaior.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Ler20NumerosMostrarMaior\Ler20NumerosMostrarMaior\bin\Debug\Ler20NumerosMostrarMaior.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Ler20NumerosMostrarMaior\Ler20NumerosMostrarMaior\bin\Debug\Ler20NumerosMostrarMaior.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Ler20NumerosMostrarMaior\Ler20NumerosMostrarMaior\obj\Debug\Ler20NumerosMostrarMaior.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Ler20NumerosMostrarMaior\Ler20NumerosMostrarMaior\obj\Debug\Ler20NumerosMostrarMaior.pdb
