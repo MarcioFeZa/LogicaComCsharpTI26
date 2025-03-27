@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroEntre20e90\NumeroEntre20e90\bin\Debug\NumeroEntre20e90.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroEntre20e90\NumeroEntre20e90\bin\Debug\NumeroEntre20e90.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroEntre20e90\NumeroEntre20e90\bin\Debug\NumeroEntre20e90.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroEntre20e90\NumeroEntre20e90\obj\Debug\NumeroEntre20e90.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroEntre20e90\NumeroEntre20e90\obj\Debug\NumeroEntre20e90.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroEntre20e90\NumeroEntre20e90\obj\Debug\NumeroEntre20e90.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroEntre20e90\NumeroEntre20e90\obj\Debug\NumeroEntre20e90.pdb
