@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NotasDinheiro\NotasDinheiro\bin\Debug\NotasDinheiro.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NotasDinheiro\NotasDinheiro\bin\Debug\NotasDinheiro.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NotasDinheiro\NotasDinheiro\bin\Debug\NotasDinheiro.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NotasDinheiro\NotasDinheiro\obj\Debug\NotasDinheiro.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NotasDinheiro\NotasDinheiro\obj\Debug\NotasDinheiro.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NotasDinheiro\NotasDinheiro\obj\Debug\NotasDinheiro.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NotasDinheiro\NotasDinheiro\obj\Debug\NotasDinheiro.pdb

@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\KenoPerna\KenoPerna\bin\Debug\KenoPerna.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\KenoPerna\KenoPerna\bin\Debug\KenoPerna.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\KenoPerna\KenoPerna\bin\Debug\KenoPerna.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\KenoPerna\KenoPerna\obj\Debug\KenoPerna.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\KenoPerna\KenoPerna\obj\Debug\KenoPerna.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\KenoPerna\KenoPerna\obj\Debug\KenoPerna.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\KenoPerna\KenoPerna\obj\Debug\KenoPerna.pdb

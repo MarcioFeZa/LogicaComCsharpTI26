@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\TresNumeros\TresNumeros\bin\Debug\TresNumeros.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\TresNumeros\TresNumeros\bin\Debug\TresNumeros.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\TresNumeros\TresNumeros\bin\Debug\TresNumeros.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\TresNumeros\TresNumeros\obj\Debug\TresNumeros.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\TresNumeros\TresNumeros\obj\Debug\TresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\TresNumeros\TresNumeros\obj\Debug\TresNumeros.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\TresNumeros\TresNumeros\obj\Debug\TresNumeros.pdb

@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PositivoNegativoZero\PositivoNegativoZero\bin\Debug\PositivoNegativoZero.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PositivoNegativoZero\PositivoNegativoZero\bin\Debug\PositivoNegativoZero.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PositivoNegativoZero\PositivoNegativoZero\bin\Debug\PositivoNegativoZero.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\PositivoNegativoZero.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\PositivoNegativoZero.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\PositivoNegativoZero.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\PositivoNegativoZero.pdb

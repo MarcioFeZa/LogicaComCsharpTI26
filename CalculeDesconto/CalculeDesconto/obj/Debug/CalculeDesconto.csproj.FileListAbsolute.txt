@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculeDesconto\CalculeDesconto\bin\Debug\CalculeDesconto.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculeDesconto\CalculeDesconto\bin\Debug\CalculeDesconto.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculeDesconto\CalculeDesconto\bin\Debug\CalculeDesconto.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculeDesconto\CalculeDesconto\obj\Debug\CalculeDesconto.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculeDesconto\CalculeDesconto\obj\Debug\CalculeDesconto.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculeDesconto\CalculeDesconto\obj\Debug\CalculeDesconto.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CalculeDesconto\CalculeDesconto\obj\Debug\CalculeDesconto.pdb
