@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Fabrica\Fabrica\bin\Debug\Fabrica.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Fabrica\Fabrica\bin\Debug\Fabrica.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Fabrica\Fabrica\bin\Debug\Fabrica.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Fabrica\Fabrica\obj\Debug\Fabrica.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Fabrica\Fabrica\obj\Debug\Fabrica.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Fabrica\Fabrica\obj\Debug\Fabrica.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\Fabrica\Fabrica\obj\Debug\Fabrica.pdb

@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroImpar\NumeroImpar\bin\Debug\NumeroImpar.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroImpar\NumeroImpar\bin\Debug\NumeroImpar.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroImpar\NumeroImpar\bin\Debug\NumeroImpar.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroImpar\NumeroImpar\obj\Debug\NumeroImpar.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroImpar\NumeroImpar\obj\Debug\NumeroImpar.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroImpar\NumeroImpar\obj\Debug\NumeroImpar.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\NumeroImpar\NumeroImpar\obj\Debug\NumeroImpar.pdb
