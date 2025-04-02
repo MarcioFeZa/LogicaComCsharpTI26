@@ -10,15 +10,16 @@ namespace IdadeIgualZero
     {
         static void Main(string[] args)
         {
-            int idade, anoDeNasc, contador = 1;
+            int idade, anoAtual, anoNascimento, contador = 1;
 
 
             while (contador > 0)
             {
                 Console.WriteLine("Digite a sua idade: ");
                 idade = int.Parse(Console.ReadLine());
-                Console.WriteLine("Digite o ano de nascimento: ");
-                anoDeNasc = int.Parse(Console.ReadLine());
+                Console.WriteLine("Digite o ano atual: ");
+                anoAtual = int.Parse(Console.ReadLine());
+                anoNascimento = anoAtual - idade;
 
 
                 Console.Clear();
@@ -27,9 +28,13 @@ namespace IdadeIgualZero
                 if (idade == 0)
                 {
                     Console.WriteLine("Fim do programa, idade 0");
-                    break;
+
                 }
-            }
+                else
+                {
+
+                    Console.WriteLine("O Ano de Nascimento é  " + anoNascimento);
+            }   }
 
         }
     }
