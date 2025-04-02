@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\IdadeIgualZero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22B3CE6B-A691-4836-B672-FA61FB5B938B}|IdadeIgualZero\\IdadeIgualZero.csproj|c:\\users\\marcio.fzanni\\source\\repos\\logicacomcsharpti26\\logicacomcsharpti26\\idadeigualzero\\idadeigualzero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B3CE6B-A691-4836-B672-FA61FB5B938B}|IdadeIgualZero\\IdadeIgualZero.csproj|solutionrelative:idadeigualzero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\IdadeIgualZero\\IdadeIgualZero\\Program.cs",
+              "RelativeDocumentMoniker": "IdadeIgualZero\\Program.cs",
+              "ToolTip": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\IdadeIgualZero\\IdadeIgualZero\\Program.cs",
+              "RelativeToolTip": "IdadeIgualZero\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:21:48.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

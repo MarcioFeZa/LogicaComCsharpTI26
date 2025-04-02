@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\IdadeIgualZero\IdadeIgualZero\bin\Debug\IdadeIgualZero.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\IdadeIgualZero\IdadeIgualZero\bin\Debug\IdadeIgualZero.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\IdadeIgualZero\IdadeIgualZero\bin\Debug\IdadeIgualZero.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\IdadeIgualZero\IdadeIgualZero\obj\Debug\IdadeIgualZero.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\IdadeIgualZero\IdadeIgualZero\obj\Debug\IdadeIgualZero.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\IdadeIgualZero\IdadeIgualZero\obj\Debug\IdadeIgualZero.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\IdadeIgualZero\IdadeIgualZero\obj\Debug\IdadeIgualZero.pdb
