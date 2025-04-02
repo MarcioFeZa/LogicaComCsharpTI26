@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CincoPorCento\CincoPorCento\bin\Debug\CincoPorCento.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CincoPorCento\CincoPorCento\bin\Debug\CincoPorCento.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CincoPorCento\CincoPorCento\bin\Debug\CincoPorCento.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CincoPorCento\CincoPorCento\obj\Debug\CincoPorCento.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CincoPorCento\CincoPorCento\obj\Debug\CincoPorCento.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CincoPorCento\CincoPorCento\obj\Debug\CincoPorCento.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\CincoPorCento\CincoPorCento\obj\Debug\CincoPorCento.pdb

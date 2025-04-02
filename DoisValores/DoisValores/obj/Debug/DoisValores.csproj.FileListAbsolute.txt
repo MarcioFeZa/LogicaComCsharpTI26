@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\DoisValores\DoisValores\bin\Debug\DoisValores.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\DoisValores\DoisValores\bin\Debug\DoisValores.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\DoisValores\DoisValores\bin\Debug\DoisValores.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\DoisValores\DoisValores\obj\Debug\DoisValores.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\DoisValores\DoisValores\obj\Debug\DoisValores.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\DoisValores\DoisValores\obj\Debug\DoisValores.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\DoisValores\DoisValores\obj\Debug\DoisValores.pdb

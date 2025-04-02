@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\VerdadeiroFalso\VerdadeiroFalso\bin\Debug\VerdadeiroFalso.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\VerdadeiroFalso\VerdadeiroFalso\bin\Debug\VerdadeiroFalso.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\VerdadeiroFalso\VerdadeiroFalso\bin\Debug\VerdadeiroFalso.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\VerdadeiroFalso\VerdadeiroFalso\obj\Debug\VerdadeiroFalso.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\VerdadeiroFalso\VerdadeiroFalso\obj\Debug\VerdadeiroFalso.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\VerdadeiroFalso\VerdadeiroFalso\obj\Debug\VerdadeiroFalso.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\VerdadeiroFalso\VerdadeiroFalso\obj\Debug\VerdadeiroFalso.pdb

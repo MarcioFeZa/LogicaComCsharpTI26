@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\OpçoesPagamento\OpçoesPagamento\bin\Debug\OpçoesPagamento.exe.config
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\OpçoesPagamento\OpçoesPagamento\bin\Debug\OpçoesPagamento.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\OpçoesPagamento\OpçoesPagamento\bin\Debug\OpçoesPagamento.pdb
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\OpçoesPagamento\OpçoesPagamento\obj\Debug\OpçoesPagamento.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\OpçoesPagamento\OpçoesPagamento\obj\Debug\OpçoesPagamento.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\OpçoesPagamento\OpçoesPagamento\obj\Debug\OpçoesPagamento.exe
+C:\Users\marcio.fzanni\source\repos\LogicaComCsharpTI26\LogicaComCsharpTI26\OpçoesPagamento\OpçoesPagamento\obj\Debug\OpçoesPagamento.pdb

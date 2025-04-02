@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\Op\u00E7oesPagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08711219-6457-4B09-8F95-86C0C1930980}|Op\u00E7oesPagamento\\Op\u00E7oesPagamento.csproj|c:\\users\\marcio.fzanni\\source\\repos\\logicacomcsharpti26\\logicacomcsharpti26\\op\u00E7oespagamento\\op\u00E7oespagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08711219-6457-4B09-8F95-86C0C1930980}|Op\u00E7oesPagamento\\Op\u00E7oesPagamento.csproj|solutionrelative:op\u00E7oespagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\Op\u00E7oesPagamento\\Op\u00E7oesPagamento\\Program.cs",
+              "RelativeDocumentMoniker": "Op\u00E7oesPagamento\\Program.cs",
+              "ToolTip": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\Op\u00E7oesPagamento\\Op\u00E7oesPagamento\\Program.cs",
+              "RelativeToolTip": "Op\u00E7oesPagamento\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBoAAAAMAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:46:23.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
