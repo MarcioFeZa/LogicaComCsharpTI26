@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D02ABA-E371-497C-8F49-232F894CD77E}|Teste\\Teste.csproj|c:\\users\\marcio.fzanni\\source\\repos\\logicacomcsharpti26\\logicacomcsharpti26\\teste\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D02ABA-E371-497C-8F49-232F894CD77E}|Teste\\Teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\Teste\\Teste\\Program.cs",
+              "RelativeDocumentMoniker": "Teste\\Program.cs",
+              "ToolTip": "C:\\Users\\marcio.fzanni\\source\\repos\\LogicaComCsharpTI26\\LogicaComCsharpTI26\\Teste\\Teste\\Program.cs*",
+              "RelativeToolTip": "Teste\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:56:31.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
