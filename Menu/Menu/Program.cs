@@ -26,6 +26,8 @@ namespace Menu
 ██║░╚═╝░██║███████╗██║░╚███║╚██████╔╝
 ╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚══╝░╚═════╝░");
                 Console.ResetColor();
+
+                Console.ForegroundColor = ConsoleColor.DarkGreen;
                 Console.WriteLine("\n Menu de cadastro\n");
                 Console.WriteLine(" 1 - Cadastro de Cliente");
                 Console.WriteLine(" 2 - Cadastro de Fornecedor");
@@ -34,6 +36,7 @@ namespace Menu
                 Console.WriteLine(" 5 - Cadastro de Pedidos");
                 Console.WriteLine(" 0 - SAIR");
                 Console.WriteLine(" Escolha uma das opções: ");
+                Console.ResetColor();
 
                 while (!int.TryParse(Console.ReadLine(), out opcao) || opcao < 0 || opcao > 5)
                 //TryParse serve para verificar se o conteudo da variavel é um texto digitado e simbolo ! (exclamação) simcoliza diferente
@@ -45,28 +48,28 @@ namespace Menu
                 {
                     case 1:
 
-                        CadastrarCliente();
+                        CadastrarCliente.Cliente();
                         break;
 
                     case 2:
 
-                        CadastrarFornecedor();
+                        CadastrarFornecedor.Fornecedor();
                         break;
 
                     case 3:
 
-                        CadastrarFuncionario();
+                        CadastrarFuncionario.Funcionario();
                         break;
 
                     case 4:
 
 
-                        CadastrarProdutos();
+                        CadastrarProduto.Produto();
                         break;
 
                     case 5:
 
-                        CadastrarPedido();
+                        CadastrarPedido.Pedido();
                         break;
 
                     case 0:
@@ -87,44 +90,7 @@ namespace Menu
                     Console.ReadKey();
                 }
             }
-        }
-        static void CadastrarCliente()
-        {
-            Console.WriteLine("\n Cadastro de Clientes");
-            Console.WriteLine(" Digite o nome do cliente: ");
-            string nome = Console.ReadLine();
-            Console.WriteLine($" Cliente {nome} cadastrado com sucesso");
-        }
-        static void CadastrarFornecedor()
-        {
-            Console.WriteLine("\n Cadastro de Fornecedores");
-            Console.WriteLine(" Digite o codigo do Fornecedor: ");
-            int codigo = int.Parse(Console.ReadLine());
-            Console.WriteLine($" Fornecedor {codigo} cadastrado com sucesso");
-        }
-        static void CadastrarFuncionario()
-        { 
-            Console.WriteLine("\n Cadastro de Funcionarios");
-            Console.WriteLine(" Digite o nome do Funcionario: ");
-            string funcionario = Console.ReadLine();
-            Console.WriteLine($" Funcionario {funcionario} cadastrado com sucesso");
-        }
-
-        static void CadastrarProdutos()
-        {
-            Console.WriteLine("\n Cadastro de Produtos");
-            Console.WriteLine(" Digite o codigo do Produto: ");
-            int produto = int.Parse(Console.ReadLine());
-            Console.WriteLine($" Fornecedor {produto} cadastrado com sucesso");
-        }
-
-        static void CadastrarPedido()
-        {
-            Console.WriteLine("\n Cadastro de Pedidos");
-            Console.WriteLine(" Digite o codigo do Pedido: ");
-            int pedido = int.Parse(Console.ReadLine());
-            Console.WriteLine($" Fornecedor {pedido} cadastrado com sucesso");
-        }
+        }  
 
     }
 }
