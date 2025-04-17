@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayPokemon\ArrayPokemon\bin\Debug\ArrayPokemon.exe.config
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayPokemon\ArrayPokemon\bin\Debug\ArrayPokemon.exe
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayPokemon\ArrayPokemon\bin\Debug\ArrayPokemon.pdb
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayPokemon\ArrayPokemon\obj\Debug\ArrayPokemon.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayPokemon\ArrayPokemon\obj\Debug\ArrayPokemon.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayPokemon\ArrayPokemon\obj\Debug\ArrayPokemon.exe
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayPokemon\ArrayPokemon\obj\Debug\ArrayPokemon.pdb
