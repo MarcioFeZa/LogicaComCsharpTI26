@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayMediaAluno\ArrayMediaAluno\bin\Debug\ArrayMediaAluno.exe.config
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayMediaAluno\ArrayMediaAluno\bin\Debug\ArrayMediaAluno.exe
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayMediaAluno\ArrayMediaAluno\bin\Debug\ArrayMediaAluno.pdb
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayMediaAluno\ArrayMediaAluno\obj\Debug\ArrayMediaAluno.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayMediaAluno\ArrayMediaAluno\obj\Debug\ArrayMediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayMediaAluno\ArrayMediaAluno\obj\Debug\ArrayMediaAluno.exe
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayMediaAluno\ArrayMediaAluno\obj\Debug\ArrayMediaAluno.pdb
