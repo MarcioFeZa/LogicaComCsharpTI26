@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayContoleDeEstoque\ArrayContoleDeEstoque\bin\Debug\ArrayContoleDeEstoque.exe.config
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayContoleDeEstoque\ArrayContoleDeEstoque\bin\Debug\ArrayContoleDeEstoque.exe
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayContoleDeEstoque\ArrayContoleDeEstoque\bin\Debug\ArrayContoleDeEstoque.pdb
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayContoleDeEstoque\ArrayContoleDeEstoque\obj\Debug\ArrayContoleDeEstoque.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayContoleDeEstoque\ArrayContoleDeEstoque\obj\Debug\ArrayContoleDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayContoleDeEstoque\ArrayContoleDeEstoque\obj\Debug\ArrayContoleDeEstoque.exe
+C:\Users\marcio.fzanni\Documents\GitHub\LogicaComCsharpTI26\ArrayContoleDeEstoque\ArrayContoleDeEstoque\obj\Debug\ArrayContoleDeEstoque.pdb
