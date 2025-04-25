@@ -1,0 +1,7 @@
+C:\Users\marcio.fzanni\source\repos\Sorteador\Sorteador\bin\Debug\Sorteador.exe.config
+C:\Users\marcio.fzanni\source\repos\Sorteador\Sorteador\bin\Debug\Sorteador.exe
+C:\Users\marcio.fzanni\source\repos\Sorteador\Sorteador\bin\Debug\Sorteador.pdb
+C:\Users\marcio.fzanni\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.csproj.AssemblyReference.cache
+C:\Users\marcio.fzanni\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.csproj.CoreCompileInputs.cache
+C:\Users\marcio.fzanni\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.exe
+C:\Users\marcio.fzanni\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.pdb
